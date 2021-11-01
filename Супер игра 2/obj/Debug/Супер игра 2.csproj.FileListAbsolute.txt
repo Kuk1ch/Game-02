@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Супер игра 2\Супер игра 2\bin\Debug\Супер игра 2.exe.config
+C:\Users\User\source\repos\Супер игра 2\Супер игра 2\bin\Debug\Супер игра 2.exe
+C:\Users\User\source\repos\Супер игра 2\Супер игра 2\bin\Debug\Супер игра 2.pdb
+C:\Users\User\source\repos\Супер игра 2\Супер игра 2\obj\Debug\Супер игра 2.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Супер игра 2\Супер игра 2\obj\Debug\Супер_игра_2.Properties.Resources.resources
+C:\Users\User\source\repos\Супер игра 2\Супер игра 2\obj\Debug\Супер игра 2.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Супер игра 2\Супер игра 2\obj\Debug\Супер игра 2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Супер игра 2\Супер игра 2\obj\Debug\Супер игра 2.exe
+C:\Users\User\source\repos\Супер игра 2\Супер игра 2\obj\Debug\Супер игра 2.pdb
+C:\Users\User\source\repos\Супер игра 2\Супер игра 2\obj\Debug\Супер_игра_2.Начало.resources
+C:\Users\User\source\repos\Супер игра 2\Супер игра 2\obj\Debug\Супер_игра_2.Игра.resources
+C:\Users\User\source\repos\Супер игра 2\Супер игра 2\obj\Debug\Супер_игра_2.Битва.resources
+C:\Users\User\source\repos\Супер игра 2\Супер игра 2\obj\Debug\Супер_игра_2.Колода.resources
+C:\Users\User\source\repos\Супер игра 2\Супер игра 2\obj\Debug\Супер_игра_2.Битва_2.resources
+C:\Users\User\source\repos\Супер игра 2\Супер игра 2\obj\Debug\Супер_игра_2.Игра_2.resources
+C:\Users\User\source\repos\Супер игра 2\Супер игра 2\obj\Debug\Супер_игра_2.Конец.resources
